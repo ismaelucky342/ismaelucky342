@@ -2,7 +2,7 @@
 
 
 # About me 
-I am a programming student at Escuela 42 and I am also studying a software engineering degree at U-tad.
+I am a programming student at School 42 and I am also studying a software engineering degree at U-tad.
 
 
 <!--
