@@ -1,5 +1,10 @@
 ### Ismael Hernández Clemente 👋💻
 
+
+#About me 
+I am a programming student at Escuela 42 and I am also studying a software engineering degree at U-tad.
+
+
 <!--
 **ismaelucky342/ismaelucky342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
