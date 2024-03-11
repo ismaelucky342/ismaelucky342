@@ -38,6 +38,10 @@ I’m currently pursuing a double degree in Mathematics and Computer Science at 
 
 ## My Github Information 📊
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelucky342&show_icons=true&locale=en" alt="ismaelucky342" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismaelucky342&" alt="ismaelucky342" /></p>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ismaelucky342&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelucky342&layout=compact&theme=merko&langs_count=10&hide=php,html)](https://github.com/anuraghazra/github-readme-stats)
