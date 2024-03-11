@@ -5,7 +5,7 @@
 
 I’m currently pursuing a double degree in Mathematics and Computer Science at U-tad. Additionally, I am a member of 42 Madrid, a programming school that embraces a disruptive peer-to-peer learning model. The synergy between these educational approaches enables me to engage in hands-on practical learning while maintaining a strong theoretical foundation and academic rigor at my university. I later apply this knowledge to real-world projects at 42, where adaptability and teamwork are highly encouraged. 
 <div align="center">
-  <img src=" ![image](https://github.com/ismaelucky342/ismaelucky342/assets/153450550/7194bf8b-cf4f-44d7-8081-5a123b897d25)" alt="Descripción de la imagen">
+  <img src=" ![U-TAD-orlarus (1)](https://github.com/ismaelucky342/ismaelucky342/assets/153450550/43b4210f-42db-4de4-93e2-e927acbee4c4)" alt="Descripción de la imagen">
 </div>
 
 
