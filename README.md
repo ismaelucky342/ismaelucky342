@@ -36,7 +36,7 @@ I’m currently pursuing a double degree in Mathematics and Computer Science at 
    <br /> 
 </p>
 
-## My Github Information 📊
+## My Github Info 📊
 
 [![codewars badge](https://www.codewars.com/users/Ismaelucky342/badges/large)](https://www.codewars.com/users/ismaelucky342)
 
