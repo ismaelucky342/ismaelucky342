@@ -38,6 +38,8 @@ I’m currently pursuing a double degree in Mathematics and Computer Science at 
 
 ## My Github Information 📊
 
+[![codewars badge](https://www.codewars.com/users/Ismaelucky342/badges/large)](https://www.codewars.com/users/ismaelucky342)
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ismaelucky342&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
