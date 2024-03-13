@@ -37,6 +37,7 @@ I’m currently pursuing a double degree in Mathematics and Computer Science at 
 </p>
 
 ## My Github Info 📊
+[![ismherna 42 stats](https://badge.mediaplus.ma/Black/ismherna?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 [![codewars badge](https://www.codewars.com/users/Ismaelucky342/badges/large)](https://www.codewars.com/users/ismaelucky342)
 
