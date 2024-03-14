@@ -42,9 +42,8 @@ I’m currently pursuing a double degree in Mathematics and Computer Science at 
 [![codewars badge](https://www.codewars.com/users/Ismaelucky342/badges/large)](https://www.codewars.com/users/ismaelucky342)
 
 
+![ismaelucky342's Stats](https://github-readme-stats.vercel.app/api?username=ismaelucky342&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ismaelucky342&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![ismaelucky342's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ismaelucky342&theme=tokyonight&hide_border=false)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelucky342&layout=compact&theme=merko&langs_count=10&hide=php,html)](https://github.com/anuraghazra/github-readme-stats)
+![ismaelucky342's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelucky342&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
