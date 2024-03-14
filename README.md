@@ -8,7 +8,9 @@
 I’m currently pursuing a double degree in Mathematics and Computer Science at U-tad. Additionally, I am a member of 42 Madrid, a programming school that embraces a disruptive peer-to-peer learning model. The synergy between these educational approaches enables me to engage in hands-on practical learning while maintaining a strong theoretical foundation and academic rigor at my university. I later apply this knowledge to real-world projects at 42, where adaptability and teamwork are highly encouraged. 
 
 university repo: [**U-Tad**](https://github.com/ismaelucky342/U-tad)
+
 School 42 repo: [**Born2code**](https://github.com/ismaelucky342/Born2code)
+
 ![image](https://github.com/ismaelucky342/ismaelucky342/assets/153450550/64e44a75-afd4-447c-951f-35b29cdd9687)
 
 ## Languages and Tools
