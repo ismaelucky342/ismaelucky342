@@ -11,7 +11,9 @@ University repo: [**U-Tad**](https://github.com/ismaelucky342/U-tad)
 
 School 42 repo: [**Born2code**](https://github.com/ismaelucky342/Born2code)
 
-![image](https://github.com/ismaelucky342/ismaelucky342/assets/153450550/64e44a75-afd4-447c-951f-35b29cdd9687)
+
+![utad-42-nueva](https://github.com/ismaelucky342/ismaelucky342/assets/153450550/ef8f4b0c-1430-4aa4-845b-0ba0b6765d45)
+
 
 ## Languages and Tools
 
