@@ -54,7 +54,7 @@ School 42 repo: [**Born2code**](https://github.com/ismaelucky342/Born2code)
 ## My Github Info 📊
 [![ismherna 42 stats](https://badge.mediaplus.ma/black/ismherna?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-[![codewars badge](https://www.codewars.com/users/Ismaelucky342/badges/large)](https://www.codewars.com/users/ismaelucky342)
+[![codewars badge](https://www.codewars.com/users/ismaelucky342/badges/large)](https://www.codewars.com/users/ismaelucky342)
 
 
 ![ismaelucky342's Stats](https://github-readme-stats.vercel.app/api?username=ismaelucky342&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
