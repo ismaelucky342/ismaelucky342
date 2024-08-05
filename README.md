@@ -53,7 +53,7 @@ School 42 repo: [**Born2code**](https://github.com/ismaelucky342/Born2code)
 
 ## My Github Info 📊
 
-![Codewars](https://www.codewars.com/users/Ismaelucky342/badges/large)
+[![Codewars](https://www.codewars.com/users/Ismaelucky342/badges/large)](https://www.codewars.com/users/Ismaelucky342)
 
 [![ismherna 42 stats](https://badge.mediaplus.ma/black/ismherna?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
