@@ -1,6 +1,7 @@
 ### Ismael Hernández Clemente 👋💻
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ismaelucky342)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-hernández-2a721a266/)
+[![Codewars](https://img.shields.io/badge/-codewars-red?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Ismaelucky342)
 
 
 I’m currently pursuing a double degree in Computer Science and Mathematics at U-tad, (university of technology and digital arts). Additionally, I am a member of 42 Madrid, a programming school that embraces a disruptive peer-to-peer learning model. The synergy between these educational approaches enables me to engage in hands-on practical learning while maintaining a strong theoretical foundation and academic rigor at my university. I later apply this knowledge to real-world projects at 42, where adaptability and teamwork are highly encouraged. 
