@@ -62,4 +62,4 @@ School 42 repo: [**Born2code**](https://github.com/ismaelucky342/Born2code)
 
 ![ismaelucky342's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ismaelucky342&theme=tokyonight&hide_border=false)
 
-![ismaelucky342's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelucky342&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
