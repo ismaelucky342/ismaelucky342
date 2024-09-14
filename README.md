@@ -7,7 +7,7 @@
 
 I’m currently pursuing a double degree in Computer Science and Mathematics at U-tad, (university of technology and digital arts). Additionally, I am a member of 42 Madrid, a programming school that embraces a disruptive peer-to-peer learning model. 
 
-Codewars repo: [**Codewars**](https://github.com/ismaelucky342/Codewars)
+Codewars repo: [**Codewars**](https://github.com/ismaelucky342/Codewars) 
 
 [![Codewars](https://www.codewars.com/users/Ismaelucky342/badges/large)](https://www.codewars.com/users/Ismaelucky342)
 
