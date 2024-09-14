@@ -5,12 +5,17 @@
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-orange?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/27040187/ismael-hernández-clemente)
 
 
-I’m currently pursuing a double degree in Computer Science and Mathematics at U-tad, (university of technology and digital arts). Additionally, I am a member of 42 Madrid, a programming school that embraces a disruptive peer-to-peer learning model. The synergy between these educational approaches enables me to engage in hands-on practical learning while maintaining a strong theoretical foundation and academic rigor at my university. I later apply this knowledge to real-world projects at 42, where adaptability and teamwork are highly encouraged. 
+I’m currently pursuing a double degree in Computer Science and Mathematics at U-tad, (university of technology and digital arts). Additionally, I am a member of 42 Madrid, a programming school that embraces a disruptive peer-to-peer learning model. 
+
+Codewars repo: [**Codewars**](https://github.com/ismaelucky342/Codewars)
+
+[![Codewars](https://www.codewars.com/users/Ismaelucky342/badges/large)](https://www.codewars.com/users/Ismaelucky342)
 
 University repo: [**U-Tad**](https://github.com/ismaelucky342/U-tad)
 
 School 42 repo: [**Born2code**](https://github.com/ismaelucky342/Born2code)
 
+[![ismherna 42 stats](https://badge.mediaplus.ma/Darkblue/ismherna?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ![utad-42-nueva](https://github.com/ismaelucky342/ismaelucky342/assets/153450550/ef8f4b0c-1430-4aa4-845b-0ba0b6765d45)
 
@@ -56,9 +61,7 @@ School 42 repo: [**Born2code**](https://github.com/ismaelucky342/Born2code)
 
 ## My Github Info 📊
 
-[![ismherna 42 stats](https://badge.mediaplus.ma/Darkblue/ismherna?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-[![Codewars](https://www.codewars.com/users/Ismaelucky342/badges/large)](https://www.codewars.com/users/Ismaelucky342)
 
 ![ismaelucky342's Stats](https://github-readme-stats.vercel.app/api?username=ismaelucky342&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
