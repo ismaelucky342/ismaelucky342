@@ -5,7 +5,7 @@
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-orange?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/27040187/ismael-hernández-clemente)
 
 
-I’m currently pursuing a double degree in Computer Science and Mathematics at U-tad, (university of technology and digital arts). Additionally, I am a member of 42 Madrid, a programming school that embraces a disruptive peer-to-peer learning model. 
+I’m currently pursuing a double Bachelor's degree in Computer Science and Mathematics at U-tad, (university of technology and digital arts). Additionally, I am a member of 42 Madrid, a programming school that embraces a disruptive peer-to-peer learning model. 
 
 Codewars repo: [**Codewars**](https://github.com/ismaelucky342/Codewars) 
 
