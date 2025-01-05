@@ -3,6 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-hernández-2a721a266/)
 [![Codewars](https://img.shields.io/badge/-codewars-red?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Ismaelucky342)
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-orange?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/27040187/ismael-hernández-clemente)
+[![Thingiverse](https://img.shields.io/badge/-Thingiverse-blue?style=flat&logo=Thingiverse&logoColor=white)](https://www.thingiverse.com/ismaelucky342/designs)
 
 
 I’m currently pursuing a double Bachelor's degree in Computer Science and Mathematics at U-tad, (university of technology and digital arts). Additionally, I am a student of 42 Madrid, a programming school that embraces a disruptive peer-to-peer learning model. 
