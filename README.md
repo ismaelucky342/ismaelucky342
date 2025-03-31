@@ -1,4 +1,11 @@
 # Ismael Hernández Clemente 👋💻
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ismaelucky342&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/ismaelucky342?pet-id=694521794673647053"
+    width="600"
+    height="100"
+  />
+</a>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ismaelucky342)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-hernández-2a721a266/)
 [![Codewars](https://img.shields.io/badge/-codewars-red?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Ismaelucky342)
@@ -17,7 +24,7 @@ University repo: [**U-Tad**](https://github.com/ismaelucky342/U-tad)
 School 42 repo: [**Born2code**](https://github.com/ismaelucky342/Born2code)
 
 [![ismherna 42 stats](https://badge.mediaplus.ma/Darkblue/ismherna?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
+  
 ![utad-42-nueva](https://github.com/ismaelucky342/ismaelucky342/assets/153450550/ef8f4b0c-1430-4aa4-845b-0ba0b6765d45)
 
 
