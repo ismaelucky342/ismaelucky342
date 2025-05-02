@@ -14,7 +14,8 @@
 [![Thingiverse](https://img.shields.io/badge/-Thingiverse-blue?style=flat&logo=Thingiverse&logoColor=white)](https://www.thingiverse.com/ismaelucky/designs)
 
 
-I’m currently pursuing a B.S double degree in Computer Science and Mathematics at U-tad, (university of technology and digital arts). Additionally, I am a student of 42 Madrid, a programming school that embraces a disruptive peer-to-peer learning model. 
+I’m a technology enthusiast and problem-solving, I'm currently studying a double degree in Computer Science and Computational Mathematics at U-tad and further developing my programming skills at 42 Madrid.
+On this GitHub profile, you'll find a mix of my 42 projects, my 5 year academic journey at the U-Tad, and a wide variety of personal projects. 
 
 Codewars repo: [**Codewars**](https://github.com/ismaelucky342/Codewars) 
 
