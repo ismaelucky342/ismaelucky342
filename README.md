@@ -15,7 +15,7 @@
 
 
 I’m a technology enthusiast and problem-solving, I'm currently studying a double degree in Computer Science and Computational Mathematics at U-tad and further developing my programming skills at 42 Madrid.
-On this GitHub profile, you'll find a mix of my 42 projects, my 5 year academic journey at the U-Tad, and a wide variety of personal projects. 
+On this GitHub profile, you'll find a mix of my 42 projects, my academic journey at the U-Tad, and a wide variety of personal projects. 
 
 Codewars repo: [**Codewars**](https://github.com/ismaelucky342/Codewars) 
 
