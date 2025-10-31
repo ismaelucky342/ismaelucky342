@@ -21,7 +21,7 @@ Codewars repo: [**Codewars**](https://github.com/ismaelucky342/Codewars)
 
 [![Codewars](https://www.codewars.com/users/Ismaelucky342/badges/large)](https://www.codewars.com/users/Ismaelucky342)
 
-University repo: [**U-Tad**](https://github.com/ismaelucky342/U-tad)
+University repo: [**U-Tad**](https://github.com/ismaelucky342/U-tad) (Currently private 🔒)
 
 School 42 repo: [**Born2code**](https://github.com/ismaelucky342/Born2code)
 
