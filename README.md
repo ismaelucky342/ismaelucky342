@@ -14,7 +14,7 @@
 [![Thingiverse](https://img.shields.io/badge/-Thingiverse-blue?style=flat&logo=Thingiverse&logoColor=white)](https://www.thingiverse.com/ismaelucky/designs)
 
 
-I’m a technology enthusiast and problem-solving, I'm currently studying a double degree in Computer Science and Computational Mathematics at U-tad and further developing my programming skills at 42 Madrid.
+I’m a technology enthusiast and problem-solving, I'm currently studying a degree in Computer Science at U-tad and further developing my programming skills at 42 Madrid.
 On this GitHub profile, you'll find a mix of my 42 projects, my academic journey at the U-Tad, and a wide variety of personal projects. 
 
 Codewars repo: [**Codewars**](https://github.com/ismaelucky342/Codewars) 
