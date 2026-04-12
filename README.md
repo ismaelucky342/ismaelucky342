@@ -25,7 +25,6 @@ University repo: [**U-Tad**](https://github.com/ismaelucky342/U-tad) (currently 
 
 School 42 repo: [**Born2code**](https://github.com/ismaelucky342/Born2code)
 
-[![ismherna 42 stats](https://badge.mediaplus.ma/Darkblue/ismherna?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
   
 ![utad-42-nueva](https://github.com/ismaelucky342/ismaelucky342/assets/153450550/ef8f4b0c-1430-4aa4-845b-0ba0b6765d45)
 
